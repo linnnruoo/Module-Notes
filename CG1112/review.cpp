@@ -10,25 +10,24 @@ int main(){
     social_life = sleep = INF;
 
     for(int week=1; week<=13; week++){
-      bool whats_going_on = true;
-      bool can_i_see_ur_report = true;
+        bool whats_going_on = true;
+        bool can_i_see_ur_report = true;
 
-      meal_at_McDonalds++;
+        meal_at_McDonalds++;
 
-      if (week > 7){
-        pain++;
-        tears++;
-        sleep--;
-        social_life--;
-        meal_at_McDonalds += 3;
+        if (week > 7){
+            pain++;
+            tears++;
+            sleep--;
+            social_life--;
+            meal_at_McDonalds += 3;
 
-        if (vincent_is_working) ? pain-- : pain++;
-      }
+            if (vincent_is_working) ? pain-- : pain++;
+        }
 
-      if(week == 13) {
-         Murphys_Law_effect = true;
-      }
-
+        if(week == 13) {
+            Murphys_Law_effect = true;
+        }
     }
 
 
