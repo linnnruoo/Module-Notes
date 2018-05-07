@@ -12,9 +12,9 @@ Some core module summary + cheatsheet
 
 
 > Good luck to all your exams.
-> Time to get *wrecked* by your peers.
+> Time to get **wrecked** by your peers.
 > Trust the computing professors. They don't set tricky questions :)
-> Remember: success starts with *SU*
+> Remember: success starts with **SU**
 
 
 > P.S. have not explored LaTex yet :<
